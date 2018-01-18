@@ -1,1 +1,34 @@
-# KotobaFlashcards
+# Kotoba Flashcards
+
+A flashcard app that reads the vocabulary for you.
+
+[![screenshot](images/screenshot-1200x630.png)](https://flashcards.bcyl.in)
+
+## Features
+
+With Kotoba flashcards you can:
+
+- Go through the cards using intuitive gestures
+- Easily add new vocabulary, flip and edit the cards for note taking
+- Automatically generate Hiragana as you type in Japanese
+- Choose from supported voices in English, French, German, Japanese, Mandarin, and Spanish
+
+No signup or login required. Just listen to the words you are learning.
+
+Find out more at <https://flashcards.bcyl.in>
+
+## Download
+
+[![appstore](images/app-store-badge.svg)](https://itunes.apple.com/us/app/kotoba-flashcards/id1319747698)
+
+## Feedback
+
+Your feedback is always welcome!
+
+Please create a [GitHub Issue](https://github.com/bcylin/KotobaFlashcards/issues/new) for feature discussions, bug reports and anything about Kotoba Flashcards. Be sure to check out the [closed issues](https://github.com/bcylin/KotobaFlashcards/issues?q=is:closed) before you open new ones.
+
+## About
+
+Kotoba Flashcards is created by [@bcylin](https://bcyl.in).
+
+Copyright © 2018 bcylin. All Rights Reserved.
