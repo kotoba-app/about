@@ -21,11 +21,17 @@ Find out more at <https://flashcards.bcyl.in>
 
 [![appstore](images/app-store-badge.svg)](https://itunes.apple.com/us/app/kotoba-flashcards/id1319747698)
 
+## TestFlight
+
+Open the link on your iPhone to install beta versions.
+
+<https://testflight.bcyl.in>
+
 ## Feedback
 
 Your feedback is always welcome!
 
-Please create a [GitHub Issue](https://github.com/bcylin/KotobaFlashcards/issues/new) for feature discussions, bug reports and anything about Kotoba Flashcards. Be sure to check out the [closed issues](https://github.com/bcylin/KotobaFlashcards/issues?q=is:closed) before you open new ones.
+Please create a [GitHub Issue](https://github.com/bcylin/KotobaFlashcards/issues/new) for feature discussions, bug reports and anything about Kotoba Flashcards.
 
 ## About
 
