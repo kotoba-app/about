@@ -11,7 +11,7 @@ With Kotoba flashcards you can:
 - Go through the cards using intuitive gestures
 - Easily add new vocabulary, flip and edit the cards for note taking
 - Automatically generate Hiragana as you type in Japanese
-- Choose from supported voices in English, French, German, Japanese, Mandarin, and Spanish
+- Choose from supported voices in English, French, German, Indonesian, Japanese, Korean, Mandarin, Spanish, Swedish, and Thai
 
 No signup or login required. Just listen to the words you are learning.
 
@@ -37,4 +37,4 @@ Please create a [GitHub Issue](https://github.com/bcylin/KotobaFlashcards/issues
 
 Kotoba Flashcards is created by [@bcylin](https://bcyl.in).
 
-Copyright © 2018 bcylin. All Rights Reserved.
+Copyright © 2018-2020 bcylin. All Rights Reserved.
