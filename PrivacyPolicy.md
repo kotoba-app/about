@@ -4,7 +4,7 @@ Kotoba Flashcards app **never** collects your personal information. You do not n
 
 ### Analytics
 
-We use [Fabric](https://fabric.io/kits) for crash reports and anonymous statistics. This helps us improve the app and fix bugs.
+We use [Sentry](https://sentry.io/privacy/) for crash reports and anonymous statistics. This helps us improve the app and fix bugs.
 
 ### Ads
 
