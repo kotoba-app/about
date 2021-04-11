@@ -2,7 +2,7 @@
 
 A flashcard app that reads the vocabulary for you.
 
-[![screenshot](images/screenshot-1200x630.png)](https://flashcards.bcyl.in)
+[![screenshot](images/screenshot-1200x630.png)](https://kotoba.app)
 
 ## Features
 
@@ -15,17 +15,11 @@ With Kotoba flashcards you can:
 
 No signup or login required. Just listen to the words you are learning.
 
-Find out more at <https://flashcards.bcyl.in>
+Find out more at <https://kotoba.app>
 
 ## Download
 
 [![appstore](images/app-store-badge.svg)](https://itunes.apple.com/us/app/kotoba-flashcards/id1319747698)
-
-## TestFlight
-
-Open the link on your iPhone to install beta versions.
-
-<https://testflight.bcyl.in>
 
 ## Feedback
 
@@ -37,4 +31,4 @@ Please create a [GitHub Issue](https://github.com/bcylin/KotobaFlashcards/issues
 
 Kotoba Flashcards is created by [@bcylin](https://bcyl.in).
 
-Copyright © 2018-2020 bcylin. All Rights Reserved.
+Copyright © 2018-2021 bcylin. All Rights Reserved.

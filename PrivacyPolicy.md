@@ -16,4 +16,4 @@ By using Kotoba Flashcards, you agree to our privacy policy.
 
 ### Contact
 
-If you have questions regarding the privacy policy, please email privacy@bcyl.in.
+If you have questions regarding the privacy policy, please email <privacy@kotoba.app>.
