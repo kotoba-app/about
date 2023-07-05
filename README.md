@@ -19,16 +19,16 @@ Find out more at <https://kotoba.app>
 
 ## Download
 
-[![appstore](images/app-store-badge.svg)](https://itunes.apple.com/us/app/kotoba-flashcards/id1319747698)
+[![appstore](images/app-store-badge.svg)](https://apps.apple.com/gb/app/id1319747698)
 
 ## Feedback
 
 Your feedback is always welcome!
 
-Please create a [GitHub Issue](https://github.com/bcylin/KotobaFlashcards/issues/new) for feature discussions, bug reports and anything about Kotoba Flashcards.
+Please create a [GitHub Issue](https://github.com/kotoba-app/about/issues/new) for feature discussions, bug reports and anything about Kotoba Flashcards.
 
 ## About
 
 Kotoba Flashcards is created by [@bcylin](https://bcyl.in).
 
-Copyright © 2018-2021 bcylin. All Rights Reserved.
+Copyright © 2018 bcylin. All Rights Reserved.
